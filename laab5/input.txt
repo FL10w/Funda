@@ -1,0 +1,6 @@
+Hello World 123!
+Test line with numbers: 456
+Special characters: !@#$%^&*()
+Mixed content: ABC 789 xyz 123
+Line with spaces and     tabs
+End of file
