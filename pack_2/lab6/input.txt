@@ -1,0 +1,2 @@
+id,name,surname,group,score1,score2,score3,score4,score5
+1,alex,smith,214,3,4,5,3,2

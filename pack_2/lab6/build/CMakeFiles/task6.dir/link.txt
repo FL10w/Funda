@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/task6.dir/link.d CMakeFiles/task6.dir/main.c.o CMakeFiles/task6.dir/student.c.o -o task6

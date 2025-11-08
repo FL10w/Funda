@@ -1,0 +1,3 @@
+/home/flow/Documents/vsc/funda/pack_2/lab6/build/CMakeFiles/task6.dir
+/home/flow/Documents/vsc/funda/pack_2/lab6/build/CMakeFiles/edit_cache.dir
+/home/flow/Documents/vsc/funda/pack_2/lab6/build/CMakeFiles/rebuild_cache.dir
