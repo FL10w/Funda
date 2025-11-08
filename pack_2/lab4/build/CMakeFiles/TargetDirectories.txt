@@ -1,0 +1,4 @@
+/home/flow/Documents/vsc/funda/pack_2/lab4/build/CMakeFiles/task4_lib.dir
+/home/flow/Documents/vsc/funda/pack_2/lab4/build/CMakeFiles/task4_exe.dir
+/home/flow/Documents/vsc/funda/pack_2/lab4/build/CMakeFiles/edit_cache.dir
+/home/flow/Documents/vsc/funda/pack_2/lab4/build/CMakeFiles/rebuild_cache.dir

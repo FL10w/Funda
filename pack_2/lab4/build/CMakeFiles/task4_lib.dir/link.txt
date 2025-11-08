@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtask4_lib.a CMakeFiles/task4_lib.dir/func.c.o
+/usr/bin/ranlib libtask4_lib.a
